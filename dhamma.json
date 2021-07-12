@@ -1,0 +1,23 @@
+[
+    {
+        "s_id": "1",
+        "s_name" : "မိုးကုတ်ဆရာတော်ဘုရားကြီး",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/MogokeSayardaw.jpg",
+        "d_title": "သုဘဒ်ရဟန်းဥပမာပြ၊သင်္ခါရတရားတော်ချောင် (၁၆)ချောင်ခိုတတ်ပုံ ၁၆.၃.၁၉၆၀",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Mogoke/Selection-957/M-G%20001.MP3"
+    },
+    {
+        "s_id": "2",
+        "s_name" : "မင်းကွန်းဆရာတော်ဘုရားကြီး",
+        "image": "http://www.thitsarparamisociety.com/wp-content/uploads/2016/09/MIngonSayardaw.jpg",
+        "d_title": "သုဘဒ်ရဟန်းဥပမာပြ၊သင်္ခါရတရားတော်ချောင် (၁၆)ချောင်ခိုတတ်ပုံ ၁၆.၃.၁၉၆၀",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Mogoke/Selection-957/M-G%20001.MP3"
+    },
+    {
+        "s_id": "3",
+        "s_name" : "မဟာစည်ဆရာတော်ဘုရားကြီး",
+        "s_image": "http://www.thitsarparamisociety.com/wp-content/uploads/2016/09/MaharSi-Sayardaw.jpg",
+        "d_title": "အလုပ်ပေးတရား မိနစ်(၃၀)",
+        "d_url": "https://media.thitsarparamisociety.com/mp3/Maharsi%20mp3/CD1/01-aloatpay.mp3"
+    }
+]
