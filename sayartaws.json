@@ -1,14 +1,14 @@
 [
     
     {
-        "id": "1",
-        "name" : "မိုးကုတ်ဆရာတော်ဘုရားကြီး",
-        "image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/MogokeSayardaw.jpg"
+        "s_id": "1",
+        "s_name" : "မိုးကုတ်ဆရာတော်ဘုရားကြီး",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/MogokeSayardaw.jpg"
     },
     {
-        "id": "2",
-        "name" : "မင်းကွန်းဆရာတော်ဘုရားကြီး",
-        "image": "http://www.thitsarparamisociety.com/wp-content/uploads/2016/09/MIngonSayardaw.jpg"
+        "s_id": "2",
+        "s_name" : "မင်းကွန်းဆရာတော်ဘုရားကြီး",
+        "s_image": "http://www.thitsarparamisociety.com/wp-content/uploads/2016/09/MIngonSayardaw.jpg"
     },
     {
         "s_id": "3",
