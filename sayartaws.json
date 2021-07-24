@@ -35,5 +35,35 @@
         "s_name" : "မဟာဂန္ဓာရုံဆရာတော်ဘုရားကြီး",
         "s_image": "http://www.thitsarparamisociety.com/wp-content/uploads/2016/09/MHDG.jpg",
         "s_url": "6.json"
+    },
+    {
+        "s_id": "7",
+        "s_name" : "ဘဒ္ဒန္တ သုနန္ဒ ဣန္ဒောဘာသ (ပခုက္ကူ ဆရာတော်ဘုရားကြီး)",
+        "s_image": "https://www.thitsarparamisociety.com/ios/images/bhaddanta-eindawbartha.png",
+        "s_url": "7.json"
+    },
+    {
+        "s_id": "8",
+        "s_name" : "ဗန်းမော်ဆရာတော်ဘုရားကြီး၊ ဒေါက်တာ အရှင်ကုမာရာဘိဝံသ",
+        "s_image": "https://www.thitsarparamisociety.com/ios/images/bamaw-sayardaw.png",
+        "s_url": "8.json"
+    },
+    {
+        "s_id": "9",
+        "s_name" : "သဒ္ဓမ္မရံသီဆရာတော် ဘဒ္ဒန္တကုဏ္ဍာဘိဝံသ",
+        "s_image": "https://www.thitsarparamisociety.com/ios/images/saddhammaramsi-sayadaw.png",
+        "s_url": "9.json"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "ဆင်ဖြူကျွန်းဆရာတော် (ဦးဓမ္မသာရ)",
+        "s_image": "https://www.thitsarparamisociety.com/ios/images/sin-phyu-kyun-syardaw.png",
+        "s_url": "10.json"
+    },
+    {
+        "s_id": "11",
+        "s_name" : "သဲအင်းဂူဆရာတော်ဘုရားကြီး",
+        "s_image": "https://www.thitsarparamisociety.com/ios/images/thee-inn-gu-sayardaw.png",
+        "s_url": "11.json"
     }
 ]
