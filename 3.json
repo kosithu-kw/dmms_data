@@ -1,11 +1,132 @@
 [
-    
-   
+
     {
         "s_id": "3",
         "s_name" : "မဟာစည်ဆရာတော်ဘုရားကြီး",
         "s_image": "http://www.thitsarparamisociety.com/wp-content/uploads/2016/09/MaharSi-Sayardaw.jpg",
         "d_title": "အလုပ်ပေးတရား မိနစ်(၃၀)",
         "d_url": "https://media.thitsarparamisociety.com/mp3/Maharsi%20mp3/CD1/01-aloatpay.mp3"
+    },
+    {
+        "s_id": "3",
+        "s_name" : "မဟာစည်ဆရာတော်ဘုရားကြီး",
+        "s_image": "http://www.thitsarparamisociety.com/wp-content/uploads/2016/09/MaharSi-Sayardaw.jpg",
+        "d_title": "အလုပ်ပေးတရား မိနစ်(၁၅)မိနစ်",
+        "d_url": "https://media.thitsarparamisociety.com/mp3/Maharsi%20mp3/CD1/03-aloatpay-15min.mp3"
+    },
+    {
+        "s_id": "3",
+        "s_name" : "မဟာစည်ဆရာတော်ဘုရားကြီး",
+        "s_image": "http://www.thitsarparamisociety.com/wp-content/uploads/2016/09/MaharSi-Sayardaw.jpg",
+        "d_title": "ဝိပဿနာအခြေခံတရားတော် အမှတ် (၁)",
+        "d_url": "https://media.thitsarparamisociety.com/mp3/Maharsi%20mp3/CD2/01-vipasana.mp3"
+    },
+    {
+        "s_id": "3",
+        "s_name" : "မဟာစည်ဆရာတော်ဘုရားကြီး",
+        "s_image": "http://www.thitsarparamisociety.com/wp-content/uploads/2016/09/MaharSi-Sayardaw.jpg",
+        "d_title": "ဝိပဿနာအခြေခံတရားတော် အမှတ် (၂)",
+        "d_url": "https://media.thitsarparamisociety.com/mp3/Maharsi%20mp3/CD2/02-vipasana.mp3"
+    },
+    {
+        "s_id": "3",
+        "s_name" : "မဟာစည်ဆရာတော်ဘုရားကြီး",
+        "s_image": "http://www.thitsarparamisociety.com/wp-content/uploads/2016/09/MaharSi-Sayardaw.jpg",
+        "d_title": "ဝိပဿနာအခြေခံတရားတော် အမှတ် (၃)",
+        "d_url": "https://media.thitsarparamisociety.com/mp3/Maharsi%20mp3/CD2/03-vipasana.mp3"
+    },
+    {
+        "s_id": "3",
+        "s_name" : "မဟာစည်ဆရာတော်ဘုရားကြီး",
+        "s_image": "http://www.thitsarparamisociety.com/wp-content/uploads/2016/09/MaharSi-Sayardaw.jpg",
+        "d_title": "ဝိပဿနာအခြေခံတရားတော် အမှတ် (၄)",
+        "d_url": "https://media.thitsarparamisociety.com/mp3/Maharsi%20mp3/CD2/04-vipasana.mp3"
+    },
+   
+    {
+        "s_id": "3",
+        "s_name" : "မဟာစည်ဆရာတော်ဘုရားကြီး",
+        "s_image": "http://www.thitsarparamisociety.com/wp-content/uploads/2016/09/MaharSi-Sayardaw.jpg",
+        "d_title": "ဝိပဿနာအခြေခံတရားတော် အမှတ် (၅)",
+        "d_url": "https://media.thitsarparamisociety.com/mp3/Maharsi%20mp3/CD2/05-vipasana.mp3"
+    },
+    {
+        "s_id": "3",
+        "s_name" : "မဟာစည်ဆရာတော်ဘုရားကြီး",
+        "s_image": "http://www.thitsarparamisociety.com/wp-content/uploads/2016/09/MaharSi-Sayardaw.jpg",
+        "d_title": "ဝိပဿနာအခြေခံတရားတော် အမှတ် (၆)",
+        "d_url": "https://media.thitsarparamisociety.com/mp3/Maharsi%20mp3/CD2/06-vipasana.mp3"
+    },
+    {
+        "s_id": "3",
+        "s_name" : "မဟာစည်ဆရာတော်ဘုရားကြီး",
+        "s_image": "http://www.thitsarparamisociety.com/wp-content/uploads/2016/09/MaharSi-Sayardaw.jpg",
+        "d_title": "အနာဂတဘယသုတ် အမှတ်(၁)",
+        "d_url": "https://media.thitsarparamisociety.com/mp3/Maharsi%20mp3/CD3/anagadabaya-1.mp3"
+    },
+    {
+        "s_id": "3",
+        "s_name" : "မဟာစည်ဆရာတော်ဘုရားကြီး",
+        "s_image": "http://www.thitsarparamisociety.com/wp-content/uploads/2016/09/MaharSi-Sayardaw.jpg",
+        "d_title": "အနာဂတဘယသုတ် အမှတ်(၂)",
+        "d_url": "https://media.thitsarparamisociety.com/mp3/Maharsi%20mp3/CD3/anagadabaya-2.mp3"
+    },
+    {
+        "s_id": "3",
+        "s_name" : "မဟာစည်ဆရာတော်ဘုရားကြီး",
+        "s_image": "http://www.thitsarparamisociety.com/wp-content/uploads/2016/09/MaharSi-Sayardaw.jpg",
+        "d_title": "ဓမ္မဒါယဒသုတ် အမှတ်(၁)",
+        "d_url": "https://media.thitsarparamisociety.com/mp3/Maharsi%20mp3/CD3/damadarada-1.mp3"
+    },
+    {
+        "s_id": "3",
+        "s_name" : "မဟာစည်ဆရာတော်ဘုရားကြီး",
+        "s_image": "http://www.thitsarparamisociety.com/wp-content/uploads/2016/09/MaharSi-Sayardaw.jpg",
+        "d_title": "ဓမ္မဒါယဒသုတ် အမှတ်(၂)",
+        "d_url": "https://media.thitsarparamisociety.com/mp3/Maharsi%20mp3/CD3/damadarada-2.mp3"
+    },
+    {
+        "s_id": "3",
+        "s_name" : "မဟာစည်ဆရာတော်ဘုရားကြီး",
+        "s_image": "http://www.thitsarparamisociety.com/wp-content/uploads/2016/09/MaharSi-Sayardaw.jpg",
+        "d_title": "ဒုက္ခသစ္စာတရားတော် အမှတ်(၁)",
+        "d_url": "https://media.thitsarparamisociety.com/mp3/Maharsi%20mp3/CD3/dokkhathissar-1.mp3"
+    },
+    {
+        "s_id": "3",
+        "s_name" : "မဟာစည်ဆရာတော်ဘုရားကြီး",
+        "s_image": "http://www.thitsarparamisociety.com/wp-content/uploads/2016/09/MaharSi-Sayardaw.jpg",
+        "d_title": "ဒုက္ခသစ္စာတရားတော် အမှတ်(၂)",
+        "d_url": "https://media.thitsarparamisociety.com/mp3/Maharsi%20mp3/CD3/dokkhathissar-2.mp3"
+    },
+  
+    {
+        "s_id": "3",
+        "s_name" : "မဟာစည်ဆရာတော်ဘုရားကြီး",
+        "s_image": "http://www.thitsarparamisociety.com/wp-content/uploads/2016/09/MaharSi-Sayardaw.jpg",
+        "d_title": "ဒုက္ခသစ္စာတရားတော် အမှတ်(၃)",
+        "d_url": "https://media.thitsarparamisociety.com/mp3/Maharsi%20mp3/CD3/dokkhathissar-3.mp3"
+    },
+    {
+        "s_id": "3",
+        "s_name" : "မဟာစည်ဆရာတော်ဘုရားကြီး",
+        "s_image": "http://www.thitsarparamisociety.com/wp-content/uploads/2016/09/MaharSi-Sayardaw.jpg",
+        "d_title": "ဥဒ္ဒေသဝိဘင်္ဂသုတ် အမှတ် (၁)",
+        "d_url": "https://media.thitsarparamisociety.com/mp3/Maharsi%20mp3/CD3/oadaethawibinga-1.mp3"
+    },
+    {
+        "s_id": "3",
+        "s_name" : "မဟာစည်ဆရာတော်ဘုရားကြီး",
+        "s_image": "http://www.thitsarparamisociety.com/wp-content/uploads/2016/09/MaharSi-Sayardaw.jpg",
+        "d_title": "ဥဒ္ဒေသဝိဘင်္ဂသုတ် အမှတ် (၂)",
+        "d_url": "https://media.thitsarparamisociety.com/mp3/Maharsi%20mp3/CD3/oadaethawibinga-2.mp3"
+    },
+    {
+        "s_id": "3",
+        "s_name" : "မဟာစည်ဆရာတော်ဘုရားကြီး",
+        "s_image": "http://www.thitsarparamisociety.com/wp-content/uploads/2016/09/MaharSi-Sayardaw.jpg",
+        "d_title": "ဥဒ္ဒေသဝိဘင်္ဂသုတ် အမှတ် (၃)",
+        "d_url": "https://media.thitsarparamisociety.com/mp3/Maharsi%20mp3/CD3/oadaethawibinga-3.mp3"
     }
+   
 ]
