@@ -1,6 +1,12 @@
 [
     
     {
+        "s_id": "12",
+        "s_name" : "ဆရာတော် ဒေါက်တာ နန္ဒမာလာဘိဝံသ",
+        "s_image": "http://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Dr-nandamarla.jpg",
+        "s_url" : "12.json"
+    },
+    {
         "s_id": "1",
         "s_name" : "မိုးကုတ်ဆရာတော်ဘုရားကြီး",
         "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/MogokeSayardaw.jpg",
