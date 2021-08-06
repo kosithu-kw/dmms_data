@@ -1,0 +1,689 @@
+[
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၁။ပဋ္ဌာန်း ပါဠိတော် ဓါရဏပရိတ်တော်",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/KyarNiKan-Phtan.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၂။အန္တရယ်ကင်းပရိတ်ကြီး(၁၁ )သုတ်",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/102.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၃။ မပေးပေး ပေးပေး",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/103.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၄။ သူခိုးစုံတွဲသေဆုံးပွဲ",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/104.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၅။ ဒါကိုဖျက်ဗိမ္မာန်ပျက်",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/105.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၆။ဗုဒ္ဓဂုဏ်ရောင်ဘီလူးရှောင်",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/106.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၇။ပုထုစဉ်နှစ်မျိုး",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/107.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၈။ကိုယ်ပြုတဲ့ကံ ကိုယ်သာခံ",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/108.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၉ ။သူများမကာင်းကြံ ကိုယ်သာခံ",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/109.mp3"
+    },
+
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၁၀။သက်သော်မသေ သေသော်မသက်",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/110.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၁၁။လမ်းနှစ်သွယ်",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/111.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၁၂။အမှောင်ဘဝသူ့နောင်တ",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/112.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၁၃။ပဌာစာရီ",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/113.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၁၄။မသေသောအလွမ်း( ပ )",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/114.MP3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၁၅။မသေသောအလွမ်း ( ဒု )",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/115.MP3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၁၆။နိဗ္ဗာန်သဲလွန်စ",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/116.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၁၇။သက္ကယဒိဋ္ဌိဖြိုတ် ခန်း (ပ )",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/117.MP3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၁၈။သက္ကယဒိဋ္ဌိဖြိုတ် ခန်း (ဒု)",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/118.MP3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၁၉။ဝိပလ္လသတရား (၁၂) ပါး",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/119.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၂၀။ကျောင်းအစ်မကြီးဝါသာခါ ( ပ )",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/120.MP3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၂၀။ကျောင်းအစ်မကြီးဝါသာခါ ( ဒု )",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/121.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၂၂။ဒါနရှင်းခန်းနှင့် ကြံစည် အပ်သောအရာလေးပါး.",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/122.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၂၃။သားကောင်းချီးမြှောင့် နတ်ပြည်ရောက်",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/123.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၂၄။သမီးထက်ငယ်သောဖေဖေ",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/124.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၂၅။ဘုရားနဲ့ ဆွေမျိူးတော် ချင်သူ",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/125.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၂၆။ငက်မွက်ခေါင်းပါး ကပ်ကျော်လွှား",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/126.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၂၇။သီချင်းသံကြား ဘုရားဖြစ်",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/127.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၂၈။သားသမီးယုံစုံလုံး ကန်း",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/128.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၂၉။တစ်ထပ်ဆွမ်းနဲ့ အမြတ်စန်း",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/129.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၃၀။တရားဂုဏ်တော်ခြောက်ပါး",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/130.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၃၁။ကျေးဇူးရှိမှကျေးစွပ်ရ",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/131.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၃၂။အောင်းခြင်းရှစ်ပါး",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/132.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၃၃။မေမေနှင် ထုတ်တေးတစ်ပုဒ်",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/133.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၃၄။မဟာဒုတ်",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/134.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၃၅။ရှင်ဥပဂုတ္တ",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/135.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၃၆။မဟာပြိုင်",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/136.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၃၇။အနုပညာရှင် ဝင်ချင်ဝင်",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/137.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၃၈။လက်နက်ပိုင်ရှင်နို့ထင်းဘုရင်",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/138.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၃၉။ဘုရားလူကြီးများ နတ်ပြည်သွား",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/139.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၄၀။လှလေ ခတ်လေ",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/140.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၄၁။ရေမျော ကမ်း တင် ဖူးစာရှင်",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/141.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၄၂။သန္တတိအမတ်ကြီး",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/142.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၄၃။မိဘဂုဏ်ရည်သားမှာတည်",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/144.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၄၄။ဘယ်သူပြိုင်ပြိုင် မနိုင်တဲ့အလှူ",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/144.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၄၅။သေချိန်တန်ကသေကြရ",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/145.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၄၆။မြစ်ကိုပစ်၍ချောင်းကိုရှာ",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/146.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၄၇။ပျော်ချင်သူလူအများလိုက်ကြမလား",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/147.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၄၈။မုန်းစိတ်မရည်ရွယ်",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/148.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၄၉။တောင့်တတိုင်းရ လှူဒါန(ပ)",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/149.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၅၀။တောင့်တတိုင်းရ လှူဒါန(ဒု)",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/150.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၅၁။လူမိုက်လမ်းဆုံး ဒုက္ခတုံးတရား(ပ)",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/151.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၅၂။လူမိုက်လမ်းဆုံး ဒုက္ခတုံးတရား(ဒု)",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/152.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၅၃။သုံးပါးညီနောင်သေပွဲအောင်တရား",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/153.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၅၄။အရိပ်နေနေအခက်ချိုးချိုး",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/154.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၅၅။ အမြတ်ဆုံးရတနာ",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/155.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၅၆။ ကိုယ့်သားကိုယ်သတ် ကာမဇာတ်",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/156.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၅၇။ မရတာကိုမှလိုချင်သူ",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/157.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၅၈။ အဟုတ်ဘူးဟုတ်တယ်ဇွတ်ငြင်းမယ်(ပ)",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/158.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၅၉။ အဟုတ်ဘူးဟုတ်တယ်ဇွတ်ငြင်းမယ်(ဒု)",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/159.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၆၀။ ချစ်စိတ်မရည်ရွယ်(ပ)",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/160.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၆၁။ချစ်စိတ်မရည်ရွယ်(ဒု)",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/161.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၆၂။ ဒီလိုဆိုလွန်တာပေါ့(ပ)",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/162.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၆၃။ဒီလိုဆိုလွန်တာပေါ့(ဒု)",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/163.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၆၄။ အလွမ်းဇာတ်သိမ်း မမငြိမ်း(ပ)",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/164.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၆၅။အလွမ်းဇာတ်သိမ်း မမငြိမ်း(ဒု)",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/165.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၆၆။ မိုက်မှောင်တွေစဲကြောင်လက်သည်း",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/166.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၆၇။ ပစ္ဆရိယသူဌေး",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/167.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၆၈။ချစ်တော့ချစ်တယ် ဒါပေမယ့်",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/168.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၆၉။ကျောက်ခဲလေး ဘဝဆုံးရှာပြီ",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/169.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၇၀။အလှူပေးသူဌေးဖြစ်",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/170.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၇၁။နေလညီနောင်သေပွဲအောင်",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/171.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၇၂။မုန်းလို့မဟုတ်ဘူး",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/172.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၇၃။မကုန်သောမေတ္တာ",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/173.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၇၄။ဝိဘတ်ကြမ္မာ မပြေးသာ",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/174.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၇၅။အပြိုင်အဆိုင်ဘယ်သူနိုင်",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/175.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၇၆။ခန္ဓာဘာရ သုတ္တန်",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/176.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၇၇။ဘုရားမှာနှစ်ခါဆုံတယ်",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/177.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၇၈။လူလား ခွေးလား",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/178.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၇၉။ရလိုသောဆုကြိုးစားပြု",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/179.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၈၀။ငုတ်မိသဲတိုင်တတ်နိုင်ဖျားေရာက်",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/180.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၈၁။မချစ်တာနဲ့ ရန်ငြိုးဖွဲ့",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/181.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၈၂။မချစ်လို့မုန်းအသက်ဆုံး",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/183.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၈၃။လေးမည်တိဿတစ်ပါးရ(ပ)",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/183.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၈၄။ လေးမည်တိဿတစ်ပါးရ(ဒု)",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/184.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၈၅။နောက်ဆုံးဌာနီ လွမ်းမျက်ရည်(ပ)",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/185.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၈၆။နောက်ဆုံးဌာနီလွမ်းမျက်ရည်(ဒု)",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/186.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၈၇။ငိုပြီးမှရယ်ကြပါစို့",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/187.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၈၈။အလှ၏နိဂုံး(ပ)",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/188.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၈၉။အလှ၏နိဂုံး(ဒု)",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/189.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၉၀။မထိနဲ့ထိရင်မီးပွင့်သွားမယ်",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/190.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၉၁။ငိုရင်ပုလဲရယ်ရင်ရွဲ",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/191.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၉၂။ချာတိတ်နဲ့ဓမ္မရိပ်",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/192.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၉၃။တရားနာ၍ငိုရသည်",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/193.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၉၄။ဥပကနဲ့မဆာဝါ",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/194.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၉၅။မျက်ရည်တွေရေလိုသုံး ဘဝနောက်ပိတ်ဆုံး",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD2/195.mp3"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၉၆။ မကုန်ဆုံးသော မေတ္တာတရား",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD1/Kyar%20Ni%20Kan%20U%20Zadila%20-%20MaKongSoneThaw-MettaTaYar.wma"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၉၇။ ပုထုစဉ်နှစ်မျိုးခွဲခြားဒဏ်တရား",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD1/Kyar%20Ni%20Kan%20U%20Zadila%20-%20PuHtuZin-NhatMyoKhwairChan.wma"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "d_title":"၉၈။ ဘယ်သူပြိုင်ပြိုင် မနိုင်တဲ့ အလှူတရား",
+        "d_url":"https://media.thitsarparamisociety.com/mp3/KyarNiKan/CD1/Kyar%20Ni%20Kan%20U%20Zadila%20-%20BelThuPyaiPyai-MaNaingTat-AhHluTayar.wma"
+    }
+]

@@ -71,5 +71,11 @@
         "s_name" : "သဲအင်းဂူဆရာတော်ဘုရားကြီး",
         "s_image": "https://www.thitsarparamisociety.com/ios/images/thee-inn-gu-sayardaw.png",
         "s_url": "11.json"
+    },
+    {
+        "s_id": "13",
+        "s_name" : "ကြာနီကန် ဆရာတော်",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Kyarnikan.jpg",
+        "s_url": "13.json"
     }
 ]
