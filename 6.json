@@ -1,9 +1,184 @@
 [
     {
         "s_id": "6",
-        "s_name" : "မဟာဂန္ဓာရုံဆရာတော်ဘုရားကြီး",
-        "s_image": "http://www.thitsarparamisociety.com/wp-content/uploads/2016/09/MHDG.jpg",
-        "d_title": "ပူဇာတေး",
-        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Janakabhivamsa%20%28MHGD%29/Ashin%20Janakabhivamsa%20%28MHGD%29/001JNK.mp3"
+        "s_name" : "ဖားအောက်တောရဆရာတော်ကြီး ဘဒ္ဒန္တအာစိဏ္ဏ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Pharrout-Sayardaw.jpg",
+        "d_title": "နိဗ္ဗာန်သို့ သွားရာ တစ်ကြောင်းတည်းသောလမ်း",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Pa-Auk/PaAukSayadawGyi-The-only-way-part-to-the-Nibbana-Singapore-2012.mp3"
+    },
+    {
+        "s_id": "6",
+        "s_name" : "ဖားအောက်တောရဆရာတော်ကြီး ဘဒ္ဒန္တအာစိဏ္ဏ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Pharrout-Sayardaw.jpg",
+        "d_title": "၁။ အာနန္ဒတ္ထေရ အပါဒါန် (၁)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Pa-Auk/AshinAnada/AshinAnada-01.mp3"
+    },
+    {
+        "s_id": "6",
+        "s_name" : "ဖားအောက်တောရဆရာတော်ကြီး ဘဒ္ဒန္တအာစိဏ္ဏ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Pharrout-Sayardaw.jpg",
+        "d_title": "၂။ အာနန္ဒတ္ထေရ အပါဒါန် (၂)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Pa-Auk/AshinAnada/AshinAnada-02.mp3"
+    },
+    {
+        "s_id": "6",
+        "s_name" : "ဖားအောက်တောရဆရာတော်ကြီး ဘဒ္ဒန္တအာစိဏ္ဏ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Pharrout-Sayardaw.jpg",
+        "d_title": "၃။ အာနန္ဒတ္ထေရ အပါဒါန် (၃)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Pa-Auk/AshinAnada/AshinAnada-03.mp3"
+    },
+    {
+        "s_id": "6",
+        "s_name" : "ဖားအောက်တောရဆရာတော်ကြီး ဘဒ္ဒန္တအာစိဏ္ဏ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Pharrout-Sayardaw.jpg",
+        "d_title": "၄။ အာနန္ဒတ္ထေရ အပါဒါန် (၄)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Pa-Auk/AshinAnada/AshinAnada-04.mp3"
+    },
+    {
+        "s_id": "6",
+        "s_name" : "ဖားအောက်တောရဆရာတော်ကြီး ဘဒ္ဒန္တအာစိဏ္ဏ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Pharrout-Sayardaw.jpg",
+        "d_title": "၅။ အာနန္ဒတ္ထေရ အပါဒါန် (၅)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Pa-Auk/AshinAnada/AshinAnada-05.mp3"
+    },
+    {
+        "s_id": "6",
+        "s_name" : "ဖားအောက်တောရဆရာတော်ကြီး ဘဒ္ဒန္တအာစိဏ္ဏ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Pharrout-Sayardaw.jpg",
+        "d_title": "၆။ အာနန္ဒတ္ထေရ အပါဒါန် (၆)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Pa-Auk/AshinAnada/AshinAnada-06.mp3"
+    },
+    {
+        "s_id": "6",
+        "s_name" : "ဖားအောက်တောရဆရာတော်ကြီး ဘဒ္ဒန္တအာစိဏ္ဏ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Pharrout-Sayardaw.jpg",
+        "d_title": "၇။ အာနန္ဒတ္ထေရ အပါဒါန် (၇)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Pa-Auk/AshinAnada/AshinAnada-07.mp3"
+    },
+    {
+        "s_id": "6",
+        "s_name" : "ဖားအောက်တောရဆရာတော်ကြီး ဘဒ္ဒန္တအာစိဏ္ဏ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Pharrout-Sayardaw.jpg",
+        "d_title": "၈။ အာနန္ဒတ္ထေရ အပါဒါန် (၈)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Pa-Auk/AshinAnada/AshinAnada-08.mp3"
+    },
+    {
+        "s_id": "6",
+        "s_name" : "ဖားအောက်တောရဆရာတော်ကြီး ဘဒ္ဒန္တအာစိဏ္ဏ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Pharrout-Sayardaw.jpg",
+        "d_title": "",
+        "d_url" : ""
+    },{
+        "s_id": "6",
+        "s_name" : "ဖားအောက်တောရဆရာတော်ကြီး ဘဒ္ဒန္တအာစိဏ္ဏ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Pharrout-Sayardaw.jpg",
+        "d_title": "၉။ အာနန္ဒတ္ထေရ အပါဒါန် (၉)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Pa-Auk/AshinAnada/AshinAnada-09.mp3"
+    },
+    {
+        "s_id": "6",
+        "s_name" : "ဖားအောက်တောရဆရာတော်ကြီး ဘဒ္ဒန္တအာစိဏ္ဏ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Pharrout-Sayardaw.jpg",
+        "d_title": "၁၀။ အာနန္ဒတ္ထေရ အပါဒါန် (၁၀)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Pa-Auk/AshinAnada/AshinAnada-10.mp3"
+    },
+    {
+        "s_id": "6",
+        "s_name" : "ဖားအောက်တောရဆရာတော်ကြီး ဘဒ္ဒန္တအာစိဏ္ဏ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Pharrout-Sayardaw.jpg",
+        "d_title": "၁၁။ အာနန္ဒတ္ထေရ အပါဒါန် (၁၁)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Pa-Auk/AshinAnada/AshinAnada-11.mp3"
+    },
+    {
+        "s_id": "6",
+        "s_name" : "ဖားအောက်တောရဆရာတော်ကြီး ဘဒ္ဒန္တအာစိဏ္ဏ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Pharrout-Sayardaw.jpg",
+        "d_title": "၁၂။ အာနန္ဒတ္ထေရ အပါဒါန် (၁၂)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Pa-Auk/AshinAnada/AshinAnada-12.mp3"
+    },
+    {
+        "s_id": "6",
+        "s_name" : "ဖားအောက်တောရဆရာတော်ကြီး ဘဒ္ဒန္တအာစိဏ္ဏ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Pharrout-Sayardaw.jpg",
+        "d_title": "၁၃။ အာနန္ဒတ္ထေရ အပါဒါန် (၁၃)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Pa-Auk/AshinAnada/AshinAnada-13.mp3"
+    },
+    {
+        "s_id": "6",
+        "s_name" : "ဖားအောက်တောရဆရာတော်ကြီး ဘဒ္ဒန္တအာစိဏ္ဏ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Pharrout-Sayardaw.jpg",
+        "d_title": "၁၄။ အာနန္ဒတ္ထေရ အပါဒါန် (၁၄)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Pa-Auk/AshinAnada/AshinAnada-14.mp3"
+    },
+    {
+        "s_id": "6",
+        "s_name" : "ဖားအောက်တောရဆရာတော်ကြီး ဘဒ္ဒန္တအာစိဏ္ဏ",
+        ",s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Pharrout-Sayardaw.jpg",
+        "d_title": "၁၅။ အာနန္ဒတ္ထေရ အပါဒါန် (၁၅)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Pa-Auk/AshinAnada/AshinAnada-15.mp3"
+    },
+    {
+        "s_id": "6",
+        "s_name" : "ဖားအောက်တောရဆရာတော်ကြီး ဘဒ္ဒန္တအာစိဏ္ဏ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Pharrout-Sayardaw.jpg",
+        "d_title": "၁၆။ အာနန္ဒတ္ထေရ အပါဒါန် (၁၆)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Pa-Auk/AshinAnada/AshinAnada-16.mp3"
+    },
+    {
+        "s_id": "6",
+        "s_name" : "ဖားအောက်တောရဆရာတော်ကြီး ဘဒ္ဒန္တအာစိဏ္ဏ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Pharrout-Sayardaw.jpg",
+        "d_title": "၁၇။ အာနန္ဒတ္ထေရ အပါဒါန် (၁၇)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Pa-Auk/AshinAnada/AshinAnada-17.mp3"
+    },
+    {
+        "s,_id": "6",
+        "s_name" : "ဖားအောက်တောရဆရာတော်ကြီး ဘဒ္ဒန္တအာစိဏ္ဏ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Pharrout-Sayardaw.jpg",
+        "d_title": "၁၈။ အာနန္ဒတ္ထေရ အပါဒါန် (၁၈)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Pa-Auk/AshinAnada/AshinAnada-18.mp3"
+    },
+    {
+        "s_id": "6",
+        "s_name" : "ဖားအောက်တောရဆရာတော်ကြီး ဘဒ္ဒန္တအာစိဏ္ဏ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Pharrout-Sayardaw.jpg",
+        "d_title": "၁၉။ အာနန္ဒတ္ထေရ အပါဒါန် (၁၉)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Pa-Auk/AshinAnada/AshinAnada-19.mp3"
+    },
+    {
+        "s,_id": "6",
+        "s_name" : "ဖားအောက်တောရဆရာတော်ကြီး ဘဒ္ဒန္တအာစိဏ္ဏ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Pharrout-Sayardaw.jpg",
+        "d_title": "၂၀။ အာနန္ဒတ္ထေရ အပါဒါန် (၂၀)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Pa-Auk/AshinAnada/AshinAnada-20.mp3"
+    },
+    {
+        "s_id": "6",
+        "s_name" : "ဖားအောက်တောရဆရာတော်ကြီး ဘဒ္ဒန္တအာစိဏ္ဏ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Pharrout-Sayardaw.jpg",
+        "d_title": "၂၁။ အာနန္ဒတ္ထေရ အပါဒါန် (၂၁)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Pa-Auk/AshinAnada/AshinAnada-21.mp3"
+    },
+    {
+        "s,_id": "6",
+        "s_name" : "ဖားအောက်တောရဆရာတော်ကြီး ဘဒ္ဒန္တအာစိဏ္ဏ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Pharrout-Sayardaw.jpg",
+        "d_title": "၂၂။ အာနန္ဒတ္ထေရ အပါဒါန် (၂၂)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Pa-Auk/AshinAnada/AshinAnada-22.mp3"
+    },
+    {
+        "s_id": "6",
+        "s_name" : "ဖားအောက်တောရဆရာတော်ကြီး ဘဒ္ဒန္တအာစိဏ္ဏ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Pharrout-Sayardaw.jpg",
+        "d_title": "၂၃။ အာနန္ဒတ္ထေရ အပါဒါန် (၂၃)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Pa-Auk/AshinAnada/AshinAnada-23.mp3"
+    },
+    {
+        "s,_id": "6",
+        "s_name" : "ဖားအောက်တောရဆရာတော်ကြီး ဘဒ္ဒန္တအာစိဏ္ဏ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Pharrout-Sayardaw.jpg",
+        "d_title": "၂၄။ အာနန္ဒတ္ထေရ အပါဒါန် (၂၄)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Pa-Auk/AshinAnada/AshinAnada-24.mp3"
     }
+    
 ]
