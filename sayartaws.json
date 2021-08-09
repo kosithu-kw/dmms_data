@@ -1,4 +1,10 @@
 [
+    {
+        "s_id": "9",
+        "s_name" : "ပရိတ်တရားတော်များ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Payate-Tayardaw.jpg",
+        "s_url": "9.json"
+    },
     
     {
         "s_id": "12",
@@ -60,12 +66,7 @@
         "s_image": "https://www.thitsarparamisociety.com/ios/images/bamaw-sayardaw.png",
         "s_url": "8.json"
     },
-    {
-        "s_id": "9",
-        "s_name" : "သဒ္ဓမ္မရံသီဆရာတော် ဘဒ္ဒန္တကုဏ္ဍာဘိဝံသ",
-        "s_image": "https://www.thitsarparamisociety.com/ios/images/saddhammaramsi-sayadaw.png",
-        "s_url": "9.json"
-    },
+   
     {
         "s_id": "10",
         "s_name" : "ဆင်ဖြူကျွန်းဆရာတော် (ဦးဓမ္မသာရ)",
