@@ -1,3 +1,256 @@
 [
+    {
+        "s_id": "11",
+        "s_name" : "မဟာကန်ပတ်လည်ဆရာတော် ဦးနန္ဒမဉ္ဇူသာ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/U-nanda-myitzu-thar.jpg",
+        "d_title": "ပဌာန်း ဘုရားအနေကဇာတင်နှင့် ခုနှစ်ရက် သားသမီး မေတ္တာပို့",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/2018/U-Nanda-Mitzutar/Pathana-Pali-Chant.mp3"
+    },
+    {
+        "s_id": "11",
+        "s_name" : "မဟာကန်ပတ်လည်ဆရာတော် ဦးနန္ဒမဉ္ဇူသာ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/U-nanda-myitzu-thar.jpg",
+        "d_title": "ကုမာရ ကဿပမင်းသားလေး တရားရပုံနှင့် ကုမာရ ကဿပ မယ်တော် တရားရပုံ",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/U-Nanda-Mitzutar/NEW%20Title%203.mp3"
+    },
+    {
+        "s_id": "11",
+        "s_name" : "မဟာကန်ပတ်လည်ဆရာတော် ဦးနန္ဒမဉ္ဇူသာ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/U-nanda-myitzu-thar.jpg",
+        "d_title": "ပဋ္ဌာန်းစာဝါ အပိုင်း (၁)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/2018/U-Nanda-Mitzutar/pathana-pali/P-001.mp3"
+    },
+    {
+        "s_id": "11",
+        "s_name" : "မဟာကန်ပတ်လည်ဆရာတော် ဦးနန္ဒမဉ္ဇူသာ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/U-nanda-myitzu-thar.jpg",
+        "d_title": "ပဋ္ဌာန်းစာဝါ အပိုင်း (၂)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/2018/U-Nanda-Mitzutar/pathana-pali/P-002.mp3"
+    },
+    {
+        "s_id": "11",
+        "s_name" : "မဟာကန်ပတ်လည်ဆရာတော် ဦးနန္ဒမဉ္ဇူသာ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/U-nanda-myitzu-thar.jpg",
+        "d_title": "ပဋ္ဌာန်းစာဝါ အပိုင်း (၃)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/2018/U-Nanda-Mitzutar/pathana-pali/P-003.mp3"
+    },
+    {
+        "s_id": "11",
+        "s_name" : "မဟာကန်ပတ်လည်ဆရာတော် ဦးနန္ဒမဉ္ဇူသာ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/U-nanda-myitzu-thar.jpg",
+        "d_title": "ပဋ္ဌာန်းစာဝါ အပိုင်း (၄)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/2018/U-Nanda-Mitzutar/pathana-pali/P-004.mp3"
+    },
+    {
+        "s_id": "11",
+        "s_name" : "မဟာကန်ပတ်လည်ဆရာတော် ဦးနန္ဒမဉ္ဇူသာ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/U-nanda-myitzu-thar.jpg",
+        "d_title": "ပဋ္ဌာန်းစာဝါ အပိုင်း (၅)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/2018/U-Nanda-Mitzutar/pathana-pali/P-005.mp3"
+    },
+    {
+        "s_id": "11",
+        "s_name" : "မဟာကန်ပတ်လည်ဆရာတော် ဦးနန္ဒမဉ္ဇူသာ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/U-nanda-myitzu-thar.jpg",
+        "d_title": "ပဋ္ဌာန်းစာဝါ အပိုင်း (၆)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/2018/U-Nanda-Mitzutar/pathana-pali/P-006.mp3"
+    },
+    {
+        "s_id": "11",
+        "s_name" : "မဟာကန်ပတ်လည်ဆရာတော် ဦးနန္ဒမဉ္ဇူသာ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/U-nanda-myitzu-thar.jpg",
+        "d_title": "ပဋ္ဌာန်းစာဝါ အပိုင်း (၇)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/2018/U-Nanda-Mitzutar/pathana-pali/P-007.mp3"
+    },
+    {
+        "s_id": "11",
+        "s_name" : "မဟာကန်ပတ်လည်ဆရာတော် ဦးနန္ဒမဉ္ဇူသာ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/U-nanda-myitzu-thar.jpg",
+        "d_title": "ပဋ္ဌာန်းစာဝါ အပိုင်း (၈)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/2018/U-Nanda-Mitzutar/pathana-pali/P-008.mp3"
+    },
+    {
+        "s_id": "11",
+        "s_name" : "မဟာကန်ပတ်လည်ဆရာတော် ဦးနန္ဒမဉ္ဇူသာ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/U-nanda-myitzu-thar.jpg",
+        "d_title": "ပဋ္ဌာန်းစာဝါ အပိုင်း (၉)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/2018/U-Nanda-Mitzutar/pathana-pali/P-009.mp3"
+    },
+    {
+        "s_id": "11",
+        "s_name" : "မဟာကန်ပတ်လည်ဆရာတော် ဦးနန္ဒမဉ္ဇူသာ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/U-nanda-myitzu-thar.jpg",
+        "d_title": "ပဋ္ဌာန်းစာဝါ အပိုင်း (၁၀)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/2018/U-Nanda-Mitzutar/pathana-pali/P-010.mp3"
+    },
+    {
+        "s_id": "11",
+        "s_name" : "မဟာကန်ပတ်လည်ဆရာတော် ဦးနန္ဒမဉ္ဇူသာ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/U-nanda-myitzu-thar.jpg",
+        "d_title": "ပဋ္ဌာန်းစာဝါ အပိုင်း (၁၁)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/2018/U-Nanda-Mitzutar/pathana-pali/P-011.mp3"
+    },
+    {
+        "s_id": "11",
+        "s_name" : "မဟာကန်ပတ်လည်ဆရာတော် ဦးနန္ဒမဉ္ဇူသာ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/U-nanda-myitzu-thar.jpg",
+        "d_title": "ပဋ္ဌာန်းစာဝါ အပိုင်း (၁၂)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/2018/U-Nanda-Mitzutar/pathana-pali/P-012.mp3"
+    },
+    {
+        "s_id": "11",
+        "s_name" : "မဟာကန်ပတ်လည်ဆရာတော် ဦးနန္ဒမဉ္ဇူသာ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/U-nanda-myitzu-thar.jpg",
+        "d_title": "ပဋ္ဌာန်းစာဝါ အပိုင်း (၁၃)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/2018/U-Nanda-Mitzutar/pathana-pali/P-013.mp3"
+    },
+    {
+        "s_id": "11",
+        "s_name" : "မဟာကန်ပတ်လည်ဆရာတော် ဦးနန္ဒမဉ္ဇူသာ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/U-nanda-myitzu-thar.jpg",
+        "d_title": "ပဋ္ဌာန်းစာဝါ အပိုင်း (၁၄)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/2018/U-Nanda-Mitzutar/pathana-pali/P-014.mp3"
+    },
+    {
+        "s_id": "11",
+        "s_name" : "မဟာကန်ပတ်လည်ဆရာတော် ဦးနန္ဒမဉ္ဇူသာ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/U-nanda-myitzu-thar.jpg",
+        "d_title": "ပဋ္ဌာန်းစာဝါ အပိုင်း (၁၅)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/2018/U-Nanda-Mitzutar/pathana-pali/P-015.mp3"
+    },
+    {
+        "s_id": "11",
+        "s_name" : "မဟာကန်ပတ်လည်ဆရာတော် ဦးနန္ဒမဉ္ဇူသာ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/U-nanda-myitzu-thar.jpg",
+        "d_title": "ပဋ္ဌာန်းစာဝါ အပိုင်း (၁၆)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/2018/U-Nanda-Mitzutar/pathana-pali/P-016.mp3"
+    },
+    {
+        "s_id": "11",
+        "s_name" : "မဟာကန်ပတ်လည်ဆရာတော် ဦးနန္ဒမဉ္ဇူသာ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/U-nanda-myitzu-thar.jpg",
+        "d_title": "ပဋ္ဌာန်းစာဝါ အပိုင်း (၁၇)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/2018/U-Nanda-Mitzutar/pathana-pali/P-017.mp3"
+    },
+    {
+        "s_id": "11",
+        "s_name" : "မဟာကန်ပတ်လည်ဆရာတော် ဦးနန္ဒမဉ္ဇူသာ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/U-nanda-myitzu-thar.jpg",
+        "d_title": "ပဋ္ဌာန်းစာဝါ အပိုင်း (၁၈)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/2018/U-Nanda-Mitzutar/pathana-pali/P-018.mp3"
+    },
+    {
+        "s_id": "11",
+        "s_name" : "မဟာကန်ပတ်လည်ဆရာတော် ဦးနန္ဒမဉ္ဇူသာ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/U-nanda-myitzu-thar.jpg",
+        "d_title": "ပဋ္ဌာန်းစာဝါ အပိုင်း (၁၉)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/2018/U-Nanda-Mitzutar/pathana-pali/P-019.mp3"
+    },
+    {
+        "s_id": "11",
+        "s_name" : "မဟာကန်ပတ်လည်ဆရာတော် ဦးနန္ဒမဉ္ဇူသာ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/U-nanda-myitzu-thar.jpg",
+        "d_title": "ပဋ္ဌာန်းစာဝါ အပိုင်း (၂၀)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/2018/U-Nanda-Mitzutar/pathana-pali/P-020.mp3"
+    },
+    {
+        "s_id": "11",
+        "s_name" : "မဟာကန်ပတ်လည်ဆရာတော် ဦးနန္ဒမဉ္ဇူသာ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/U-nanda-myitzu-thar.jpg",
+        "d_title": "ပဋ္ဌာန်းစာဝါ အပိုင်း (၂၂)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/2018/U-Nanda-Mitzutar/pathana-pali/P-022.mp3"
+    },
+    {
+        "s_id": "11",
+        "s_name" : "မဟာကန်ပတ်လည်ဆရာတော် ဦးနန္ဒမဉ္ဇူသာ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/U-nanda-myitzu-thar.jpg",
+        "d_title": "ပဋ္ဌာန်းစာဝါ အပိုင်း (၂၄)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/2018/U-Nanda-Mitzutar/pathana-pali/P-024.mp3"
+    },
+    {
+        "s_id": "11",
+        "s_name" : "မဟာကန်ပတ်လည်ဆရာတော် ဦးနန္ဒမဉ္ဇူသာ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/U-nanda-myitzu-thar.jpg",
+        "d_title": "ပဋ္ဌာန်းစာဝါ အပိုင်း (၂၇)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/2018/U-Nanda-Mitzutar/pathana-pali/P-027.mp3"
+    },
+    {
+        "s_id": "11",
+        "s_name" : "မဟာကန်ပတ်လည်ဆရာတော် ဦးနန္ဒမဉ္ဇူသာ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/U-nanda-myitzu-thar.jpg",
+        "d_title": "ပဋ္ဌာန်းစာဝါ အပိုင်း (၂၈)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/2018/U-Nanda-Mitzutar/pathana-pali/P-028.mp3"
+    },
+    {
+        "s_id": "11",
+        "s_name" : "မဟာကန်ပတ်လည်ဆရာတော် ဦးနန္ဒမဉ္ဇူသာ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/U-nanda-myitzu-thar.jpg",
+        "d_title": "ပဋ္ဌာန်းစာဝါ အပိုင်း (၂၉)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/2018/U-Nanda-Mitzutar/pathana-pali/P-029.mp3"
+    },
+    {
+        "s_id": "11",
+        "s_name" : "မဟာကန်ပတ်လည်ဆရာတော် ဦးနန္ဒမဉ္ဇူသာ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/U-nanda-myitzu-thar.jpg",
+        "d_title": "ပဋ္ဌာန်းစာဝါ အပိုင်း (၃၀)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/2018/U-Nanda-Mitzutar/pathana-pali/P-030.mp3"
+    },
+    {
+        "s_id": "11",
+        "s_name" : "မဟာကန်ပတ်လည်ဆရာတော် ဦးနန္ဒမဉ္ဇူသာ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/U-nanda-myitzu-thar.jpg",
+        "d_title": "ပဋ္ဌာန်းစာဝါ အပိုင်း (၃၁)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/2018/U-Nanda-Mitzutar/pathana-pali/P-031.mp3"
+    },
+    {
+        "s_id": "11",
+        "s_name" : "မဟာကန်ပတ်လည်ဆရာတော် ဦးနန္ဒမဉ္ဇူသာ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/U-nanda-myitzu-thar.jpg",
+        "d_title": "ပဋ္ဌာန်းစာဝါ အပိုင်း (၃၂)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/2018/U-Nanda-Mitzutar/pathana-pali/P-032.mp3"
+    },
+    {
+        "s_id": "11",
+        "s_name" : "မဟာကန်ပတ်လည်ဆရာတော် ဦးနန္ဒမဉ္ဇူသာ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/U-nanda-myitzu-thar.jpg",
+        "d_title": "ပဋ္ဌာန်းစာဝါ အပိုင်း (၃၃)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/2018/U-Nanda-Mitzutar/pathana-pali/P-033.mp3"
+    },
+    {
+        "s_id": "11",
+        "s_name" : "မဟာကန်ပတ်လည်ဆရာတော် ဦးနန္ဒမဉ္ဇူသာ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/U-nanda-myitzu-thar.jpg",
+        "d_title": "ပဋ္ဌာန်းစာဝါ အပိုင်း (၃၄)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/2018/U-Nanda-Mitzutar/pathana-pali/P-034.mp3"
+    },
+    {
+        "s_id": "11",
+        "s_name" : "မဟာကန်ပတ်လည်ဆရာတော် ဦးနန္ဒမဉ္ဇူသာ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/U-nanda-myitzu-thar.jpg",
+        "d_title": "ပဋ္ဌာန်းစာဝါ အပိုင်း (၃၅)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/2018/U-Nanda-Mitzutar/pathana-pali/P-035.mp3"
+    },
+    {
+        "s_id": "11",
+        "s_name" : "မဟာကန်ပတ်လည်ဆရာတော် ဦးနန္ဒမဉ္ဇူသာ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/U-nanda-myitzu-thar.jpg",
+        "d_title": "ပဋ္ဌာန်းစာဝါ အပိုင်း (၃၆)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/2018/U-Nanda-Mitzutar/pathana-pali/P-036.mp3"
+    },
+    {
+        "s_id": "11",
+        "s_name" : "မဟာကန်ပတ်လည်ဆရာတော် ဦးနန္ဒမဉ္ဇူသာ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/U-nanda-myitzu-thar.jpg",
+        "d_title": "ပဋ္ဌာန်းစာဝါ အပိုင်း (၃၇)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/2018/U-Nanda-Mitzutar/pathana-pali/P-037.mp3"
+    },
+    {
+        "s_id": "11",
+        "s_name" : "မဟာကန်ပတ်လည်ဆရာတော် ဦးနန္ဒမဉ္ဇူသာ",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/U-nanda-myitzu-thar.jpg",
+        "d_title": "ပဋ္ဌာန်းစာဝါ အပိုင်း (၃၈)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/2018/U-Nanda-Mitzutar/pathana-pali/P-038.mp3"
+    }
+  
     
 ]
