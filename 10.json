@@ -1,3 +1,380 @@
 [
-    
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "မြတ်ဗုဒ္ဓတိုက်ရိုက်ထုတ်လွှင့်သော ဓမ္မရုပ်သံ (၆.၁.၂၀၂၁)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/2021/Ashin-Sandar-Di-Ka/AshinSandarDiKa_2021.1.6.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "မေတ္တာလွှမ်းမှ ငြိမ်းချမ်းမယ် (၁.၅.၂၀၁၉ မုံရွာ)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/2019/Ashin-Sandar-Di-Ka/May/05.01.2019.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "နှလုံးသားတောင်ထိပ်က သုဂတစေတီ (၂၇.၂.၂၀၁၉ မန္တလေး)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/2019/Ashin-Sandar-Di-Ka/Feb/27.02.2019.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "ဘာပဲလုပ်လုပ်တန်အောင်လုပ် တရားတော် (၂၆.၂.၂၀၁၉ မတ္တရာ)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/2019/Ashin-Sandar-Di-Ka/Feb/26.02.2019.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "ဘာပဲလုပ်လုပ်တန်အောင်လုပ် တရားတော် (၈.၂.၂၀၁၉)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/2019/Ashin-Sandar-Di-Ka/Feb/08.02.2019.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "နှလုံးသားတောင်ထိပ်က အရဟံစေတီတော် (၇.၂.၂၀၁၉)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/2019/Ashin-Sandar-Di-Ka/Feb/07.02.2019.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "နှလုံးသားတောင်ထိပ်က ထာဝရငြိမ်းချမ်းရေးစေတီတော် (၁.၂.၂၀၁၉)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/2019/Ashin-Sandar-Di-Ka/Feb/01.02.2019.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "နှလုံးသားတောင်ထိပ်က သုဂတစေတီ (၃၀.၁.၂၀၁၉ ပဲခူး)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/2019/Ashin-Sandar-Di-Ka/Jan/30.01.2019.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "သံဝေဂနှလုံးသား (၂၄.၁၀.၂၀၁၈ သီတင်းကျွတ်လပြည့်နေ့)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/2018/Ashin-Sandar-Di-Ka/2018-Oct/24.10.2018.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "ဖြစ်ရပ်တိုင်း၌ စိတ်ထားကောင်းရန် အစီအစဉ် ရှိမရှိ (၅.၁.၂၀၁၇)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Sandar%20Di%20Ka/2017/5-1-2017.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "လမ်းခွဲတာဝမ်းနည်းစရာလား (၁)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Sandar%20Di%20Ka/01/01-Lann%20Khuel%20Tar%20(DEPARTURE1)_01.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "လမ်းခွဲတာဝမ်းနည်းစရာလား (၂)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Sandar%20Di%20Ka/01/02-Lann%20Khuel%20Tar%20(DEPARTURE1)_02.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "နှလုံးသားတောင်ထိပ်က အရဟံစေတီ(၁)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Sandar%20Di%20Ka/01/03-Tip%20Top%20Of%20Heart%20ARAHAN(1)_01.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "နှလုံးသားတောင်ထိပ်က အရဟံစေတီ(၂)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Sandar%20Di%20Ka/01/04-Tip%20Top%20Of%20Heart%20ARAHAN(1)_02.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "ရွှေကောင်းမှုနှင့် ရွှေတောင်းဆု(၁)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Sandar%20Di%20Ka/01/05-Shew%20kong%20mue%20ne%20shew%20towng%20su_01.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "ရွှေကောင်းမှုနှင့် ရွှေတောင်းဆု(၂)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Sandar%20Di%20Ka/01/06-Shew%20kong%20mue%20ne%20shew%20towng%20su_02.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "လောက ၌ အကောင်းဆုံးသော အရာ (၁)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Sandar%20Di%20Ka/01/07-LAW%20KA%20NIKE%20AH%20KAUNG%20SONE%20TAW%20AH%20YAR%20(1)_01.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "လောက ၌ အကောင်းဆုံးသော အရာ (၂)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Sandar%20Di%20Ka/01/08-LAW%20KA%20NIKE%20AH%20KAUNG%20SONE%20TAW%20AH%20YAR%20(1)_02.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "လောက ၌ အကောင်းဆုံးသော အရာ (၃)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Sandar%20Di%20Ka/01/09-LAW%20KA%20NIKE%20AH%20KAUNG%20SUNG%20TAW%20AH%20YAR%20(2)_01.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "လောက ၌ အကောင်းဆုံးသော အရာ (၄)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Sandar%20Di%20Ka/01/10-LAW%20KA%20NIKE%20AH%20KAUNG%20SUNG%20TAW%20AH%20YAR%20(2)_02.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "ထူးမှထူး (၁)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Sandar%20Di%20Ka/01/11-Htoo%20maa%20htoo%20(1)_01.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "ထူးမှထူး (၂)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Sandar%20Di%20Ka/01/12-Htoo%20maa%20htoo%20(1)_02.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "ထူးမှထူး (၃)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Sandar%20Di%20Ka/01/13-Htoo%20ma%20htoo%20(2)_01.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "ထူးမှထူး (၄)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Sandar%20Di%20Ka/01/14-Htoo%20ma%20htoo%20(2)_02.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "ဂရုဏာလက် (၁)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Sandar%20Di%20Ka/01/15-Hand%20Of%20KINDNESS(1)_01.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "ဂရုဏာလက် (၂)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Sandar%20Di%20Ka/01/16-Hand%20Of%20KINDNESS(1)_02.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "ဂရုဏာလက် (၃)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Sandar%20Di%20Ka/01/17-Hand%20Of%20KINDNESS(2)_01.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "ဂရုဏာလက် (၄)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Sandar%20Di%20Ka/01/18-Hand%20Of%20KINDNESS(2)_02.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "အိုဘယ့်အလှူရှင် (၁)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Sandar%20Di%20Ka/01/19-Ohobakarhlushin_01.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "အိုဘယ့်အလှူရှင် (၂)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Sandar%20Di%20Ka/01/20-Ohobakarhlushin_02.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "တို့လည်းလိုက်မယ်ချန်မထားနဲ့(၁)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Sandar%20Di%20Ka/01/21-Doo%20lae%20laik%20mae%20chan%20ma%20hthar%20net_01.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "တို့လည်းလိုက်မယ်ချန်မထားနဲ့(၂)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Sandar%20Di%20Ka/01/22-Doo%20lae%20laik%20mae%20chan%20ma%20hthar%20net_02.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "တောင်ပို့တူးသမား (၁)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Sandar%20Di%20Ka/02/01-Taung%20poot%20too%20tha%20mar%20(1)_01.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "တောင်ပို့တူးသမား (၂)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Sandar%20Di%20Ka/02/02-Taung%20poot%20too%20tha%20mar%20(1)_02.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "တောင်ပို့တူးသမား (၃)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Sandar%20Di%20Ka/02/03-Taung%20poot%20too%20tamar%20(2)_01.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "တောင်ပို့တူးသမား (၄)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Sandar%20Di%20Ka/02/04-Taung%20poot%20too%20tamar%20(2)_02.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "တောင်ပို့တူးသမား (၅)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Sandar%20Di%20Ka/02/05-Taung%20poot%20too%20ta%20mar%20(3)_01.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "တောင်ပို့တူးသမား (၆)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Sandar%20Di%20Ka/02/06-Taung%20poot%20too%20ta%20mar%20(3)_02.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "တောင်ပို့တူးသမား (၇)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Sandar%20Di%20Ka/02/07-Taung%20poot%20too%20tamar%20(4)_01.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "တောင်ပို့တူးသမား (၈)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Sandar%20Di%20Ka/02/08-Taung%20poot%20too%20tamar%20(4)_02.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "တောင်ပို့တူးသမား (၉)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Sandar%20Di%20Ka/02/09-Taung%20poot%20too%20tama%20(5)_01.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "တောင်ပို့တူးသမား (၁၀)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Sandar%20Di%20Ka/02/10-Taung%20poot%20too%20tama%20(5)_02.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "တောင်ပို့တူးသမား (၁၁)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Sandar%20Di%20Ka/02/11-Taung%20poo%20too%20tamar(6)_01.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "တောင်ပို့တူးသမား (၁၂)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Sandar%20Di%20Ka/02/12-Taung%20poo%20too%20tamar(6)_02.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "ရလေလိုလေ ဒါပေမဲ့တဒင်္ဂလေးတွေ (၁)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Sandar%20Di%20Ka/02/13-YaLayLoLay%20BUT(a%20moment%2001)_01.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "ရလေလိုလေ ဒါပေမဲ့တဒင်္ဂလေးတွေ (၂)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Sandar%20Di%20Ka/02/14-YaLayLoLay%20BUT(a%20moment%2001)_02.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "ရလေလိုလေ ဒါပေမဲ့တဒင်္ဂလေးတွေ (၃)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Sandar%20Di%20Ka/02/15-YaLayLoLay(BUT%20a%20moment%202)_01.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "ရလေလိုလေ ဒါပေမဲ့တဒင်္ဂလေးတွေ (၄)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Sandar%20Di%20Ka/02/16-YaLayLoLay(BUT%20a%20moment%202)_02.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "လိုတရနှလုံးသား (၁)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Sandar%20Di%20Ka/02/17-LO%20TA%20YA%20Heart%20(1)_01.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "လိုတရနှလုံးသား (၂)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Sandar%20Di%20Ka/02/18-LO%20TA%20YA%20Heart%20(1)_02.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "လိုတရနှလုံးသား (၃)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Sandar%20Di%20Ka/02/19-LOTAYA%20HEART%20(02)_01.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "လိုတရနှလုံးသား (၄)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Sandar%20Di%20Ka/02/20-LOTAYA%20HEART%20(02)_02.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "သွေရဲရဲ သံရဲရဲ (၁)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Sandar%20Di%20Ka/02/21-Blood%20ye%20ye%20iron%20ye%20ye_01.mp3"
+    },
+    {
+        "s_id": "10",
+        "s_name" : "အရှင်ဆန္ဒာဓိက",
+        "s_image": "https://www.thitsarparamisociety.com/wp-content/uploads/2016/09/Ashin-Sandardika.jpg",
+        "d_title": "သွေရဲရဲ သံရဲရဲ (2)",
+        "d_url" : "https://media.thitsarparamisociety.com/mp3/Ashin%20Sandar%20Di%20Ka/02/22-Blood%20ye%20ye%20iron%20ye%20ye_02.mp3"
+    }
 ]
